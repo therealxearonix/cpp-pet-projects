@@ -15,7 +15,7 @@ Well, this is a calculator that can do all basic math operations like:
 # guess a capital
 Game where you should guess a capital of given country.
 
-In game there is 3 difficult levels:
+In game there is 3 difficulty levels:
 - Easy
 - Medium
 - Hard
