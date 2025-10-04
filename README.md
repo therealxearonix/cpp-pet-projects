@@ -25,3 +25,8 @@ Of course, set of countries and number of difficulty levels are quite sparse rig
 And either you'll have to make do with what you have, or I'll get insipred someday and add something new.
 
 ^-^
+# complex-calculator
+A calculator in which you can do various operations with complex numbers: 
+- Basic mathematical operations such as addition/subtraction, multiplication, division and exponentiation. 
+- Calculate all basic trigonometric functions of a complex argument. 
+- Representation of complex numbers in trigonometric and exponential form.
