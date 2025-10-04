@@ -2,7 +2,7 @@
 Here you can find my small projects on C++
 
 # calculator
-Just a simple calculator/ My first graphical app.
+Just a simple calculator. My first graphical app.
 
 I made this more for testing than for everyday use. I need to do some practice after all :^
 
